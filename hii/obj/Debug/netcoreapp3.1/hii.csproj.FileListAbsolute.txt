@@ -1,0 +1,13 @@
+D:\Sails_C#\Programs\hii\bin\Debug\netcoreapp3.1\hii.exe
+D:\Sails_C#\Programs\hii\bin\Debug\netcoreapp3.1\hii.deps.json
+D:\Sails_C#\Programs\hii\bin\Debug\netcoreapp3.1\hii.runtimeconfig.json
+D:\Sails_C#\Programs\hii\bin\Debug\netcoreapp3.1\hii.runtimeconfig.dev.json
+D:\Sails_C#\Programs\hii\bin\Debug\netcoreapp3.1\hii.dll
+D:\Sails_C#\Programs\hii\bin\Debug\netcoreapp3.1\hii.pdb
+D:\Sails_C#\Programs\hii\obj\Debug\netcoreapp3.1\hii.csprojAssemblyReference.cache
+D:\Sails_C#\Programs\hii\obj\Debug\netcoreapp3.1\hii.AssemblyInfoInputs.cache
+D:\Sails_C#\Programs\hii\obj\Debug\netcoreapp3.1\hii.AssemblyInfo.cs
+D:\Sails_C#\Programs\hii\obj\Debug\netcoreapp3.1\hii.csproj.CoreCompileInputs.cache
+D:\Sails_C#\Programs\hii\obj\Debug\netcoreapp3.1\hii.dll
+D:\Sails_C#\Programs\hii\obj\Debug\netcoreapp3.1\hii.pdb
+D:\Sails_C#\Programs\hii\obj\Debug\netcoreapp3.1\hii.genruntimeconfig.cache

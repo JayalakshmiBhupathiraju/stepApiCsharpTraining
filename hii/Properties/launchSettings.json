@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "hii": {
+      "commandName": "Project",
+      "commandLineArgs": "my name is jaya"
+    }
+  }
+}
