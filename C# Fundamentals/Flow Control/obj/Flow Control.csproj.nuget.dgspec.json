@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sails_C#\\Programs\\hii\\hii.csproj": {}
+    "D:\\Sails_C#\\Programs\\Flow Control\\Flow Control.csproj": {}
   },
   "projects": {
-    "D:\\Sails_C#\\Programs\\hii\\hii.csproj": {
+    "D:\\Sails_C#\\Programs\\Flow Control\\Flow Control.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sails_C#\\Programs\\hii\\hii.csproj",
-        "projectName": "hii",
-        "projectPath": "D:\\Sails_C#\\Programs\\hii\\hii.csproj",
+        "projectUniqueName": "D:\\Sails_C#\\Programs\\Flow Control\\Flow Control.csproj",
+        "projectName": "Flow Control",
+        "projectPath": "D:\\Sails_C#\\Programs\\Flow Control\\Flow Control.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Sails_C#\\Programs\\hii\\obj\\",
+        "outputPath": "D:\\Sails_C#\\Programs\\Flow Control\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "hii/1.0.0": {
+      "Flow Control/1.0.0": {
         "runtime": {
-          "hii.dll": {}
+          "Flow Control.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "hii/1.0.0": {
+    "Flow Control/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

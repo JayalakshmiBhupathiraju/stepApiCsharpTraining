@@ -1,0 +1,13 @@
+D:\Sails_C#\Programs\Flow Control\bin\Debug\netcoreapp3.1\Flow Control.exe
+D:\Sails_C#\Programs\Flow Control\bin\Debug\netcoreapp3.1\Flow Control.deps.json
+D:\Sails_C#\Programs\Flow Control\bin\Debug\netcoreapp3.1\Flow Control.runtimeconfig.json
+D:\Sails_C#\Programs\Flow Control\bin\Debug\netcoreapp3.1\Flow Control.runtimeconfig.dev.json
+D:\Sails_C#\Programs\Flow Control\bin\Debug\netcoreapp3.1\Flow Control.dll
+D:\Sails_C#\Programs\Flow Control\bin\Debug\netcoreapp3.1\Flow Control.pdb
+D:\Sails_C#\Programs\Flow Control\obj\Debug\netcoreapp3.1\Flow Control.csprojAssemblyReference.cache
+D:\Sails_C#\Programs\Flow Control\obj\Debug\netcoreapp3.1\Flow Control.AssemblyInfoInputs.cache
+D:\Sails_C#\Programs\Flow Control\obj\Debug\netcoreapp3.1\Flow Control.AssemblyInfo.cs
+D:\Sails_C#\Programs\Flow Control\obj\Debug\netcoreapp3.1\Flow Control.csproj.CoreCompileInputs.cache
+D:\Sails_C#\Programs\Flow Control\obj\Debug\netcoreapp3.1\Flow Control.dll
+D:\Sails_C#\Programs\Flow Control\obj\Debug\netcoreapp3.1\Flow Control.pdb
+D:\Sails_C#\Programs\Flow Control\obj\Debug\netcoreapp3.1\Flow Control.genruntimeconfig.cache
