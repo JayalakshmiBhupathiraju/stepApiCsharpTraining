@@ -1,0 +1,13 @@
+D:\Sails_C#\Programs\Delegate_Events\bin\Debug\netcoreapp3.1\Delegate_Events.exe
+D:\Sails_C#\Programs\Delegate_Events\bin\Debug\netcoreapp3.1\Delegate_Events.deps.json
+D:\Sails_C#\Programs\Delegate_Events\bin\Debug\netcoreapp3.1\Delegate_Events.runtimeconfig.json
+D:\Sails_C#\Programs\Delegate_Events\bin\Debug\netcoreapp3.1\Delegate_Events.runtimeconfig.dev.json
+D:\Sails_C#\Programs\Delegate_Events\bin\Debug\netcoreapp3.1\Delegate_Events.dll
+D:\Sails_C#\Programs\Delegate_Events\bin\Debug\netcoreapp3.1\Delegate_Events.pdb
+D:\Sails_C#\Programs\Delegate_Events\obj\Debug\netcoreapp3.1\Delegate_Events.csprojAssemblyReference.cache
+D:\Sails_C#\Programs\Delegate_Events\obj\Debug\netcoreapp3.1\Delegate_Events.AssemblyInfoInputs.cache
+D:\Sails_C#\Programs\Delegate_Events\obj\Debug\netcoreapp3.1\Delegate_Events.AssemblyInfo.cs
+D:\Sails_C#\Programs\Delegate_Events\obj\Debug\netcoreapp3.1\Delegate_Events.csproj.CoreCompileInputs.cache
+D:\Sails_C#\Programs\Delegate_Events\obj\Debug\netcoreapp3.1\Delegate_Events.dll
+D:\Sails_C#\Programs\Delegate_Events\obj\Debug\netcoreapp3.1\Delegate_Events.pdb
+D:\Sails_C#\Programs\Delegate_Events\obj\Debug\netcoreapp3.1\Delegate_Events.genruntimeconfig.cache

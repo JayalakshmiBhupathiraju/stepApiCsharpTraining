@@ -1,0 +1,13 @@
+D:\Sails_C#\Programs\Deligates\obj\Debug\netcoreapp3.1\Deligates.csprojAssemblyReference.cache
+D:\Sails_C#\Programs\Deligates\obj\Debug\netcoreapp3.1\Deligates.AssemblyInfoInputs.cache
+D:\Sails_C#\Programs\Deligates\obj\Debug\netcoreapp3.1\Deligates.AssemblyInfo.cs
+D:\Sails_C#\Programs\Deligates\obj\Debug\netcoreapp3.1\Deligates.csproj.CoreCompileInputs.cache
+D:\Sails_C#\Programs\Deligates\bin\Debug\netcoreapp3.1\Deligates.exe
+D:\Sails_C#\Programs\Deligates\bin\Debug\netcoreapp3.1\Deligates.deps.json
+D:\Sails_C#\Programs\Deligates\bin\Debug\netcoreapp3.1\Deligates.runtimeconfig.json
+D:\Sails_C#\Programs\Deligates\bin\Debug\netcoreapp3.1\Deligates.runtimeconfig.dev.json
+D:\Sails_C#\Programs\Deligates\bin\Debug\netcoreapp3.1\Deligates.dll
+D:\Sails_C#\Programs\Deligates\bin\Debug\netcoreapp3.1\Deligates.pdb
+D:\Sails_C#\Programs\Deligates\obj\Debug\netcoreapp3.1\Deligates.dll
+D:\Sails_C#\Programs\Deligates\obj\Debug\netcoreapp3.1\Deligates.pdb
+D:\Sails_C#\Programs\Deligates\obj\Debug\netcoreapp3.1\Deligates.genruntimeconfig.cache
