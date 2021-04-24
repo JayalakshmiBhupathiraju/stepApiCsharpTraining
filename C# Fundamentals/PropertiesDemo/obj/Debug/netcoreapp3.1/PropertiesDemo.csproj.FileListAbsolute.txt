@@ -1,0 +1,13 @@
+D:\Sails_C#\Programs\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.exe
+D:\Sails_C#\Programs\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.deps.json
+D:\Sails_C#\Programs\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.runtimeconfig.json
+D:\Sails_C#\Programs\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.runtimeconfig.dev.json
+D:\Sails_C#\Programs\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.dll
+D:\Sails_C#\Programs\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.pdb
+D:\Sails_C#\Programs\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.csprojAssemblyReference.cache
+D:\Sails_C#\Programs\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.AssemblyInfoInputs.cache
+D:\Sails_C#\Programs\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.AssemblyInfo.cs
+D:\Sails_C#\Programs\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.csproj.CoreCompileInputs.cache
+D:\Sails_C#\Programs\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.dll
+D:\Sails_C#\Programs\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.pdb
+D:\Sails_C#\Programs\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.genruntimeconfig.cache
